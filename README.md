@@ -1,6 +1,7 @@
-👩‍💻 Software Engineer | Python Enthusiast | Data Science Explorer | Passionate about turning lines of code into innovative solutions | MMU STUDENT 🎓 | Lifelong Learner 📚 |
+👩‍💻 Software Engineer | Python Enthusiast | Data Scientist | Passionate about turning lines of code into innovative solutions | MMU STUDENT 🎓 | Lifelong Learner 📚 | 
 
 Hi! My name is Ali Imran.
+
 Let's connect on linkedin https://www.linkedin.com/in/ali-imran-shahrin-9707241a7/
 
 <!---
