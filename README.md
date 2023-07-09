@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Imran</h1>
 <h3 align="center">A passionate programmer from Malaysia</h3>
 
-- 🌱 I’m currently learning **fullstack development**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **alishahrin2001@gmail.com**
 
