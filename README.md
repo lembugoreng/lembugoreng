@@ -65,19 +65,6 @@ Tools        Git, Docker, Kubernetes, Linux, Postman
 Enterprise   Oracle Forms, Oracle Reports, EDMS/API integrations
 ```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lembugoreng&show_icons=true&theme=tokyonight" alt="Ali Imran's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lembugoreng&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <em>Always learning, always building.</em>
